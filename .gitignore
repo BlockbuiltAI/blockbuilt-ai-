@@ -1,0 +1,17 @@
+# Node / Next.js
+node_modules/
+.next/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+
+# System/IDE files
+.DS_Store
+.vscode/
+.idea/
