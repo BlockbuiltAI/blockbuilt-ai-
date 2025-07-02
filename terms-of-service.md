@@ -1,1 +1,1 @@
-
+By using BlockBuilt.ai, you agree not to share private account tools or impersonate others. You are responsible for the accuracy of the financial data you submit. Refunds are not issued for digital downloads or AI-generated content.
