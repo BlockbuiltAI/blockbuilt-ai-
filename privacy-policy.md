@@ -1,1 +1,1 @@
-
+We collect your name, email, and financial information for the purpose of account services, credit tools, and tax-related support. We do not sell or share your data. You may request your data be deleted at any time by emailing hello@blockbuilt.ai.
